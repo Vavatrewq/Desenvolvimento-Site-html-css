@@ -1,0 +1,82 @@
+*{
+    margin: 0%;
+    padding:0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.bottom{
+    background-image: url("../imagens/Ferramentas2.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    padding-bottom: 5%;
+    padding-top: 2%;
+    background-attachment: fixed;
+}
+
+.title{
+   font-size: 40px;
+   color:white;
+   background-color: rgb(222,226,230,0.6);
+   text-align: center;
+   padding-bottom: 80px;
+   padding-top:300px;
+   margin-left:200px;
+   margin-right:200px;
+   border-radius: 20px;
+}
+
+h2{
+    font-size:100%;
+}
+
+li,a{
+    padding-left: 40px;
+    font-size: 20px;
+    float:left;
+    list-style-type: none;
+    margin-left:50px;
+    margin-top:20px;
+    color:black;
+}
+
+.facebook{
+    background-image: url("../icons/facebook.svg");
+    background-repeat:no-repeat;
+}
+
+.instagram{
+    background-image: url("../icons/instagram.svg");
+    background-repeat:no-repeat;
+}
+
+.twitter{
+    background-image: url("../icons/twitter.svg");
+    background-repeat:no-repeat;
+}
+
+.prod{
+    text-align:center;
+    font-size: 50px;
+    margin-top:50px;
+}
+
+.produtos,p{
+    box-sizing: border-box;
+    margin:auto;
+    margin-bottom:200px;
+    padding-left:15px;
+    font-size: 20px;
+}
+
+.produtos{
+    background-color:rgba(0,0,0,0.1);
+    padding-left:10px;
+    border-radius: 8px;
+    margin:10px;
+    
+}
+
+
+
+
+
