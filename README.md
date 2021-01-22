@@ -6,3 +6,6 @@
 
 ##Links Funcionais
 ![Links](https://github.com/Vavatrewq/Desenvolvimento-Site-html-css/blob/main/inicio2.gif)
+
+##Adicionei uma barra de contatos funcionais ainda em Desenvolvimento.
+![contatos](https://github.com/Vavatrewq/Desenvolvimento-Site-html-css/blob/main/inicio3.gif)
